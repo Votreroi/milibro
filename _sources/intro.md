@@ -11,7 +11,8 @@
 **Carrera:** Ingenieria en Tecnologías de la Información
 
 ## Hobby
-Cautivado por la madre naturaleza, inspirado en la belleza y crueldad de la vida, busco aventuras en las montañas, volcanes y nevados de nuestro país.  
+Cautivado por la madre naturaleza, inspirado en la belleza y crueldad de la vida, busco aventuras en las montañas, volcanes y nevados de nuestro país. 
+
 ![](IMG-20210405-WA0008.jpg)
 
 :::{Capac Urcu}
