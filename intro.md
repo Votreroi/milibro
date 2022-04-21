@@ -15,7 +15,7 @@ Cautivado por la madre naturaleza, inspirado en la belleza y crueldad de la vida
 
 ![](IMG-20210405-WA0008.jpg)
 
-:::{Capac Urcu} 
+:::{note} 
 Una hermosa laguna congelada se oculta al final del sendero.
 :::
 
