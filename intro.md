@@ -1,7 +1,17 @@
 # Datos Personales
 
-This is a small sample book to give you a feel for how book content is
-structured.
+**Apellidos:** Chuquirima Benalcázar
+
+**Nombres:** Erick Renato
+
+**ID:** 1723838148
+
+**Correo:** erchuquirima@utpl.edu.ec
+
+**Carrera:** Ingenieria en Tecnologías de la Información
+
+## Descripción personal
+ "![](IMG-20210405-WA0008.jpg)"\n",
 
 :::{note}
 Here is a note!
