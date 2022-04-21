@@ -15,7 +15,7 @@ Cautivado por la madre naturaleza, inspirado en la belleza y crueldad de la vida
 
 ![](IMG-20210405-WA0008.jpg)
 
-:::{Capac Urcu}
-Más conocido como Altar, es un volcán extinto hace miles de años,  una hermosa laguna congelada se oculta al final del sendero.
+:::{Capac Urcu} 
+Una hermosa laguna congelada se oculta al final del sendero.
 :::
 
