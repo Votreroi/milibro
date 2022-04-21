@@ -10,17 +10,11 @@
 
 **Carrera:** Ingenieria en Tecnologías de la Información
 
-## Descripción personal
- "![](IMG-20210405-WA0008.jpg)"\n",
+## Hobby
+Cautivado por la madre naturaleza, inspirado en la belleza y crueldad de la vida, busco aventuras en las montañas, volcanes y nevados de nuestro país.  
+![](IMG-20210405-WA0008.jpg)
 
-:::{note}
-Here is a note!
+:::{Capac Urcu}
+Más conocido como Altar, es un volcán extinto hace miles de años,  una hermosa laguna congelada se oculta al final del sendero.
 :::
 
-And here is a code block:
-
-```
-e = mc^2
-```
-
-Check out the content pages bundled with this sample book to see more.
