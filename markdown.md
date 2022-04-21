@@ -4,7 +4,7 @@
 
 ## Tecnologias de la Información
 
-Según [UTPL](https://www.utpl.edu.ec/carreras/ingenieriati), esta carrera nos prepara para ser un especialista en la gestión y desarrollo de soluciones basadas en el uso de Tecnologías de Información (TI), con un enfoque en la innovación tecnológica inclusiva.
+Según la pagina web de la universidad [UTPL](https://www.utpl.edu.ec/carreras/ingenieriati), esta carrera nos prepara para ser un especialista en la gestión y desarrollo de soluciones basadas en el uso de Tecnologías de Información (TI), con un enfoque en la innovación tecnológica inclusiva.
 
 ### Primer Semestre
 
